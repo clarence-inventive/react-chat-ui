@@ -22,7 +22,6 @@
   "author": "Brandon Mowat",
   "license": "ISC",
   "dependencies": {
-    "@types/react": "^16.9.2",
     "prop-types": "^15.5.10"
   },
   "peerDependencies": {
